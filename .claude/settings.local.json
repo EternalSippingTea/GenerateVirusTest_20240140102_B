@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem \"D:\\\\Farhan Visual Code\\\\SMT 4 - Keamanan Sbier\\\\Pertemuan 10 - Sql Injection\" | Where-Object { $_.Name -ne \".venv\" } | Select-Object Name, PSIsContainer)"
+    ]
+  }
+}
